@@ -1,0 +1,5 @@
+user_id:STRING, 
+first_name:STRING, 
+last_name:STRING, 
+age:INTEGER, 
+address:STRING 
