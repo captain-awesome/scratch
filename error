@@ -1,0 +1,8 @@
+PS H:\> .\tidal_job_fetch.ps1
+At H:\tidal_job_fetch.ps1:41 char:45
++     Write-Host "Run ID for job $JOB_NAME on $EXEC_DATE: $RUN_ID"
++                                             ~~~~~~~~~~~
+Variable reference is not valid. ':' was not followed by a valid variable name character. Consider using ${} to
+delimit the name.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : InvalidVariableReferenceWithDrive
