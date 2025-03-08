@@ -1,14 +1,5 @@
-Hi John,
+Weekend On-Call (Saturday and Sunday): If you work more then your 8 hour shift during the weekend, your compensation will be based on the following structure listed below.  The Comp Time earned for working extra hours on weekends must be taken the following buiness day (Monday).  Use it or lose it.*
 
-I hope you're doing well. My name is Rock, and I’m part of the SRE for Data Engineering team. We work extensively with Tidal and are currently in the process of building applications and Grafana dashboards. To support this effort, we’ve been advised to utilize the Tidal Reporting DB.
-
-I recently received access to the AETH\TidalReportingDB-RO group, and I wanted to reach out for some guidance. Specifically:
-
-    How are you currently logging into this DB instance?
-    Which application would you recommend for accessing the reporting database?
-    Could you provide a sample SQL statement for querying the snapshot [SNAPSHOT NAME HERE]?
-
-I appreciate any insights you can share. Thanks in advance for your time!
-
-Best,
-Rock
+Up to 2 hours: You will receive a half-day off.
+Up to 4 hours: You will receive a full day off.
+Up to 8 hours: You will receive a day and a half off.
