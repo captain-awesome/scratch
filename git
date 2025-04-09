@@ -1,0 +1,17 @@
+git config --local user.name "John Smith"
+git config --local user.email "name@company.com"
+
+git config --global color.ui true
+git config --global pull.rebase true.   DO NOT USE
+git config --global push.default current
+
+git config --global alias.aa add .
+git config --global alias.st status
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.up rebase
+git config --global alias.cm "commit -am"
+git config --global alias.mom merge origin/master
+git config --global alias.dom "diff origin/master"
+git config --global alias.files "diff origin/master --name-only"
+git config --global alias.conflict "diff origin/master --name-only --diff-filter=U"
