@@ -1,7 +1,5 @@
-Thank you for following up and explaining the intent behind the survey. I completely understand that leadership is aiming for 100% engagement.
+- Judging people based on how many tickets they can handle is a bad idea.
 
-That said, I truly don’t feel I have enough experience yet to provide meaningful or genuine feedback. I believe it’s important that survey responses reflect real experiences and not just participation for participation’s sake. I’d prefer to contribute thoughtful feedback once I’ve had more time with the company and can add value to the results.
-
-Please let me know if leadership would still prefer that I submit a response indicating that I’m too new to provide a full perspective at this time—I’m happy to support the process respectfully if that’s helpful.
-
-Thanks again for understanding!
+    - Tickets are toil and should be removed as soon as possible.
+    - These two ideas will go in conflict with each other. Any incentive for the team (however impossible it is with the current culture), to reduce toil would go against what management measures and judges them by.
+ 
