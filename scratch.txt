@@ -1,24 +1,26 @@
-Use this task to add or edit an individual goal
-Colleagues can define individual, role-based, one-year goals that support the Enterprise Strategy and Imperatives and enables their respective business or function-specific goals.
+Strengthen technical skills and improve operational efficiency through focused learning and workflow
+enhancements.
 
-Colleagues can edit or add details to a goal that has been cascaded by their leader.
+As a Site Reliability Engineer, I will focus on building deeper knowledge in Linux, SQL, and AI over the
+course of the year. Alongside that, I'm going to improve a few of our recurring troubleshooting processes to
+help reduce manual work and boost team efficiency. This goal will support my growth and contribute to our
+broader operational excellence efforts.
+Actions
 
-Colleagues should have at least one goal and no more than five goals.
+- I will complete intermediate-level training in SQL and Linux by the end of Q2.
+- I'll enroll in an AI/ML fundamentals course that's relevant to SRE work (like anomaly detection or predictive
+alerting) by Q3.
+- I'm going to document and streamline at least two common troubleshooting or operational workflows to help
+reduce MTTR.
+- I'll take part in at least one team project that focuses on automation or process improvement.
 
-Colleagues should meet with their leader to align on their goals and review progress throughout the year during recurring check-ins.
- 
+Metrics
+- I will complete training and/or knowledge checks for SQL, Linux, and AI courses.
+- I'll implement and document two or more process improvements by Q4.
+- I'll aim for a 15% reduction in repeat manual troubleshooting tasks or duplicate incidents.
 
-Why Goal Setting Is Important
-At [COMPANY], we measure annual performance equally based on WHAT we deliver and HOW we achieve results.
-
-Goal setting provides an opportunity to articulate what we need to deliver to advance our Enterprise Strategy and Imperatives. Look to your leader to share their goals and write your own goals that align with the broader strategy of your team and specifically detail your personal contributions and impact.
-Setting goals and prioritizing expectations for the year helps all of us to focus our time and effort, recognize our individual contributions to team and enterprise success, and align on expectations. Since business priorities evolve throughout the year, please work with your leader to adjust your goals as necessary.
-How we deliver on our goals is equally important. All colleagues are expected to demonstrate our [COMPANY] Heart At Work Behaviors™ and uphold our commitment to ethics and compliance while delivering on their goals. Your leader may prioritize certain Heart At Work Behaviors that must be demonstrated by you and your team throughout the year.
-Leaders are responsible for providing performance management feedback based on goal results achieved and demonstration of the Heart At Work Behaviors throughout the year, with more formal assessments at Mid-Year and Year-End.
-Goal Setting Framework – S.M.A.R.T. Goals
-Specific: Straightforward, clear and unambiguous–should be aligned to leader and team goals but tailored to your specific role/job.
-Measurable: Specific metrics associated with progress and success –should correspond to the goal and action plan.
-Achievable: Challenging, but within your reach –should stretch your capability yet be achievable within established timeframes.
-Relevant or Result-Oriented: Goals that matter and will be impactful –should be relevant and contribute to the company goals, team goals and your role.
-Time Bound: Set a time limit for milestones and overall achievement.
-
+Key Dates
+- By June 30: SQL and Linux learning modules will be completed.
+- By August 1: I will enroll in the AI course.
+- By October 31: I'll complete the AI course.
+- By December 15: I'll wrap up and review the process improvement work.
