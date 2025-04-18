@@ -1,26 +1,9 @@
-Strengthen technical skills and improve operational efficiency through focused learning and workflow
-enhancements.
+L3 - 409 (Sr SRE Cloud Engineer)
 
-As a Site Reliability Engineer, I will focus on building deeper knowledge in Linux, SQL, and AI over the
-course of the year. Alongside that, I'm going to improve a few of our recurring troubleshooting processes to
-help reduce manual work and boost team efficiency. This goal will support my growth and contribute to our
-broader operational excellence efforts.
-Actions
+Q1:
 
-- I will complete intermediate-level training in SQL and Linux by the end of Q2.
-- I'll enroll in an AI/ML fundamentals course that's relevant to SRE work (like anomaly detection or predictive
-alerting) by Q3.
-- I'm going to document and streamline at least two common troubleshooting or operational workflows to help
-reduce MTTR.
-- I'll take part in at least one team project that focuses on automation or process improvement.
+Oversee the migration of critical systems to a more robust GCP architecture. Conduct advanced training sessions on cloud architecture and management. Lead efforts to integrate AI-based monitoring tools into the production environment. Establish a new set of best practices for cloud security in collaboration with the cybersecurity team. Review and optimize the entire incident response workflow.
 
-Metrics
-- I will complete training and/or knowledge checks for SQL, Linux, and AI courses.
-- I'll implement and document two or more process improvements by Q4.
-- I'll aim for a 15% reduction in repeat manual troubleshooting tasks or duplicate incidents.
+Q2:
 
-Key Dates
-- By June 30: SQL and Linux learning modules will be completed.
-- By August 1: I will enroll in the AI course.
-- By October 31: I'll complete the AI course.
-- By December 15: I'll wrap up and review the process improvement work.
+Develop a strategic plan for capacity and resource planning for growing application demands. Initiate a quarterly review cycle for all major systems and their compliance with newly established SRE standards. Mentor junior SREs on strategic project management and leadership skills. Lead a cross-organizational initiative to enhance inter-departmental collaborations. Publish at least one internal white paper on innovative SRE practices or case studies.
