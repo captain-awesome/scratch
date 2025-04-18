@@ -1,9 +1,5 @@
-L3 - 409 (Sr SRE Cloud Engineer)
+Looking at these goals, I’d say a good chunk of the Q1 stuff is either already done or pretty far along. The GCP architecture migration and DR work? That’s been a big focus, and I’ve definitely been deep in the weeds on slot management, replica promotion, and making things more resilient overall. I’ve also been actively improving incident response workflows and tightening up how we approach troubleshooting as a team.
 
-Q1:
+When it comes to cloud security and AI-based monitoring, those are probably still in motion—some progress made, especially where it overlaps with DR and access controls—but still room to grow, depending on tool access and org priorities. As for training others, I’ve definitely shared a lot of what I’ve learned, even if not in a formal classroom setup.
 
-Oversee the migration of critical systems to a more robust GCP architecture. Conduct advanced training sessions on cloud architecture and management. Lead efforts to integrate AI-based monitoring tools into the production environment. Establish a new set of best practices for cloud security in collaboration with the cybersecurity team. Review and optimize the entire incident response workflow.
-
-Q2:
-
-Develop a strategic plan for capacity and resource planning for growing application demands. Initiate a quarterly review cycle for all major systems and their compliance with newly established SRE standards. Mentor junior SREs on strategic project management and leadership skills. Lead a cross-organizational initiative to enhance inter-departmental collaborations. Publish at least one internal white paper on innovative SRE practices or case studies.
+For Q2, I’d say most of it is in progress. I’ve been thinking more strategically about capacity planning, especially with growing demand on systems. Mentoring and cross-team work are already part of what I do day to day—probably just need to be a bit more intentional or structured about it. The white paper might still be in the idea phase, but I’ve got enough content from past projects to put something solid together if given the space.
