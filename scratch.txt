@@ -1,5 +1,31 @@
-Looking at these goals, I’d say a good chunk of the Q1 stuff is either already done or pretty far along. The GCP architecture migration and DR work? That’s been a big focus, and I’ve definitely been deep in the weeds on slot management, replica promotion, and making things more resilient overall. I’ve also been actively improving incident response workflows and tightening up how we approach troubleshooting as a team.
+Problem 
+Alert noise and ticketing inefficiencies are undermining SRE effectiveness. Our current alerting and ticketing practices—particularly through ServiceNow—are generating excessive operational toil. Engineers are frequently paged by false positives or non-actionable alerts, duplicate incident tickets are common, and there is no streamlined ownership or escalation logic. A significant portion of these issues originate from development teams, whose changes often introduce instability or noise into production—but the operational burden of triaging and resolving them disproportionately falls on our team. If the development teams know they have to be accountable for their work, they will stop dumping their dirty dishes into our kitchen sink for us to clean.
+This fragmentation and imbalance not only leads to wasted time but also disrupts engineering focus, weakens accountability, and reduces our ability to deliver high-impact, long-term reliability improvements.
+Issues
+Noisy, Unactionable Alerts - Many alerts do not meet the basic SRE standard of being both actionable and impacting. False positives and low-priority alerts create unnecessary pages and noise, violating the SRE principle of minimizing toil and maximizing focus on meaningful work.
 
-When it comes to cloud security and AI-based monitoring, those are probably still in motion—some progress made, especially where it overlaps with DR and access controls—but still room to grow, depending on tool access and org priorities. As for training others, I’ve definitely shared a lot of what I’ve learned, even if not in a formal classroom setup.
 
-For Q2, I’d say most of it is in progress. I’ve been thinking more strategically about capacity planning, especially with growing demand on systems. Mentoring and cross-team work are already part of what I do day to day—probably just need to be a bit more intentional or structured about it. The white paper might still be in the idea phase, but I’ve got enough content from past projects to put something solid together if given the space.
+Lack of Root Cause Ownership - Non-actionable alerts often linger or are repeatedly ignored, rather than being investigated with the goal of permanent remediation. This leads to bandaid solutions instead of long-term reliability gains.
+
+
+Misaligned Responsibility - Many alerts and resulting tickets stem from issues introduced by development teams, yet SREs are the ones solely burdened with resolving them. This breaks the principle of shared accountability for production stability.
+
+
+Duplicate Incident Tickets - Multiple tickets are often generated for the same underlying issue. These get assigned to different engineers who redundantly troubleshoot, leading to inefficiency, delayed resolution, and frustration. In other words, too many people chasing the same rabbit.
+
+
+“Hot Potato” Handoff Culture - Without logic to route follow-up incidents to the original handler, tickets are bounced between team members. This disrupts workflow and erodes ownership.
+
+
+Goes Against SRE Core Practices - These issues introduce high levels of manual toil, reduce engineering efficiency, and weaken the feedback loop that should guide system and process improvements. The current approach lacks clarity, accountability, and automation—all of which are pillars of modern SRE practice.
+
+
+Proposed Solutions
+Establish Clear Alert Criteria - Ensure alerts are both actionable and impacting before they can trigger a page. Reduce noise by refining thresholds and eliminating outdated or misconfigured alerts (e.g., for jobs like EDP_CPF_DL_INCR_QNXT_IL_PLANREPORT_2, CLKSTRM, etc.).
+
+
+Engineer-Led Alert Review - Non-actionable alerts should be triaged—not ignored. Assign ownership for investigating their root cause and remediating them through automation, configuration updates, or better monitoring logic.
+
+
+Enforce Shared Reliability Ownership - Loop in developers automatically when alerts stem from their code or services. Holding dev teams accountable reinforces production awareness and shifts reliability left, in 
+
